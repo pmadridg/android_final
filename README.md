@@ -1,4 +1,4 @@
-https://github.com/pmadridg/android_final/blob/master/android2.png# android_final
+# android_final
 Proyecto Android Final
 
 
