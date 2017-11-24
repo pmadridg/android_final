@@ -1,4 +1,4 @@
-# android_final
+https://github.com/pmadridg/android_final/blob/master/android2.png# android_final
 Proyecto Android Final
 
 
@@ -43,4 +43,4 @@ String objectId| String photo|String price
 
 Diagrama
 
-![]()
+![](https://github.com/pmadridg/android_final/blob/master/android2.png)
